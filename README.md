@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+ENTITIES: 
+* Tests
+* Questions
+* Answers
+* Teachers/Admins
+* Users
